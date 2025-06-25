@@ -8,3 +8,7 @@ Among the architectures tested, the VGG16 model achieved the highest accuracy an
 
 Flowchart:
 ![image](https://github.com/user-attachments/assets/9727e13e-8c1a-45b7-b326-b35d29f5d288)
+
+
+Resources :
+  Read the associate research paper [here](https://link.springer.com/chapter/10.1007/978-981-99-1983-3_35) for further details
